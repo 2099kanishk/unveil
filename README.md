@@ -64,7 +64,7 @@ Unveil/
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/2099kanishk/unveil>
 cd Unveil
 ```
 
