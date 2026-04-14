@@ -257,7 +257,7 @@ export default function Signup() {
 
         <div className="sgn-field">
           <label className="sgn-label">Full Name</label>
-          <input className="sgn-input" type="text" placeholder="Ishan Pandey"
+          <input className="sgn-input" type="text" placeholder="Kanishk Kumar"
             value={form.name} onChange={e => setForm({ ...form, name: e.target.value })} />
         </div>
 
